@@ -6,13 +6,15 @@
   
   body {
     background-color: snow;
+    display: flex; 
+
   }
   
-  #tittle {
+  #tittle  {
     height: 80px; 
     display: flex; 
-    justify-content: center; 
-    align-items: center;
+    justify-content: stretch; 
+    align-items: stretch;
     color: darkslategray;
   }
 
@@ -21,6 +23,7 @@
   main {
     display: flex; 
     justify-content: center;
+
   }
   
   form {

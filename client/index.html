@@ -12,7 +12,7 @@
 
     
     <main>
-      <div>
+    <div>
 
     <button id="complimentButton">Get a Compliment</button>
 
@@ -34,30 +34,34 @@
     <input type="radio" id="4" name="rating" onclick="setRating('that was very funny!')" /> 
     <label for="4">4</label>
     <input type="radio" id="5" name="rating" onclick="setRating('Goood one! I cant stop laughing')" /> 
-    <label for="5">5</label>
+    <label for="5">5</label><br>
+
+    <br>
+
+    <div id="own-joke-tittle">Now you can add your own jokes here...
+      <form>
+  
+        <input 
+            type='text'
+            id="joke"
+            placeholder="Type a good programming joke"/>
+        <input 
+            type='text'
+            id="rate"
+            placeholder='Rate this Joke. 1 = The Worse, 5 = Coolest Joke Ever'/>
+        <input 
+            type='text'
+            id="img"
+            placeholder='Paste an image URL'/>
+        <button>Add Joke</button>
+    </form>
+    
+  </div>
 
   </div>
 
 
-<div id="own-joke-tittle">Now you can add your own jokes here...
-    <form>
 
-      <input 
-          type='text'
-          id="joke"
-          placeholder="Type a good programming joke"/>
-      <input 
-          type='text'
-          id="rate"
-          placeholder='Rate this Joke. 1 = The Worse, 5 = Coolest Joke Ever'/>
-      <input 
-          type='text'
-          id="img"
-          placeholder='Paste an image URL'/>
-      <button>Add Joke</button>
-  </form>
-  
-</div>
 
 <section id="jokes-container"></section>
    
