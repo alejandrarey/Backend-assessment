@@ -1,0 +1,58 @@
+[
+    {
+      "id": 1,
+      "joke": "Two bytes meet.  The first byte asks, Are you ill? The second byte replies, No, just feeling a bit off.",
+      "rate": 4,
+      "imageURL" : "https://comic.browserling.com/bytes.png"
+    },
+    {
+      "id": 2,
+      "joke": "Q. How did the programmer die in the shower?  A. He read the shampoo bottle instructions: Lather. Rinse. Repeat",
+      "rate": 5,
+      "imageURL" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKv76qeVNbdKMGsPu33RDrySbESlTzxBwACMG9_EM5ngoxWyst4Kbz7WfKcUsEind7HJw&usqp=CAU"
+    },
+    {
+      "id": 3,
+      "joke": "Knock, knock.  who is there?    very long pause….     Java.",
+      "rate": 5,
+      "imageURL" : "https://miro.medium.com/max/956/1*2mw6C-cGNrYNBY0Izearyg.png"
+    },
+
+    {
+        "id": 4,
+        "joke": "How many programmers does it take to change a light bulb? None, It is a hardware problem",
+        "rate": 3,
+        "imageURL" : "https://pbs.twimg.com/media/D2EYiAYW0AEvVjL.jpg"
+      },
+
+      {
+        "id": 5,
+        "joke": "Debugging: Removing the needles from the haystack.",
+        "rate": 3,
+        "imageURL" : "https://blog.postman.com/wp-content/uploads/2021/11/Advanced-debugging-postman-blog.jpg"
+      },
+
+      {
+        "id": 6,
+        "joke": "I just saw my life flash before my eyes and all I could see was a close tag…",
+        "rate": 3,
+        "imageURL" : "https://i.kym-cdn.com/photos/images/masonry/000/222/941/rip-life.jpg"
+      },
+
+      {
+        "id": 7,
+        "joke": "There are only 10 kinds of people in this world: those who know binary and those who do not",
+        "rate": 2,
+        "imageURL" : "https://ih1.redbubble.net/image.1148857958.6302/st,small,507x507-pad,600x600,f8f8f8.u2.jpg"
+      }
+  ]
+
+
+
+  
+					 
+					 
+           
+           
+
+           
